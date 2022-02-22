@@ -1,2 +1,1 @@
-# Epik-archery-
-idk how to spell archery 
+# Project Template 26
